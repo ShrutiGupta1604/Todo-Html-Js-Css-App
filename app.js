@@ -54,7 +54,7 @@ function addTodo(event)
                     element.completed =! element.completed
                  }
                  return element
-            }
+                }
         )
         console.log(todo)
 
